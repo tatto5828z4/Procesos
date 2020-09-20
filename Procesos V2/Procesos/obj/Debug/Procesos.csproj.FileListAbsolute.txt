@@ -1,0 +1,10 @@
+C:\Users\Langas\source\repos\Procesos\Procesos\bin\Debug\Procesos.exe.config
+C:\Users\Langas\source\repos\Procesos\Procesos\bin\Debug\Procesos.exe
+C:\Users\Langas\source\repos\Procesos\Procesos\bin\Debug\Procesos.pdb
+C:\Users\Langas\source\repos\Procesos\Procesos\obj\Debug\Procesos.csprojAssemblyReference.cache
+C:\Users\Langas\source\repos\Procesos\Procesos\obj\Debug\Procesos.Properties.Resources.resources
+C:\Users\Langas\source\repos\Procesos\Procesos\obj\Debug\Procesos.csproj.GenerateResource.cache
+C:\Users\Langas\source\repos\Procesos\Procesos\obj\Debug\Procesos.csproj.CoreCompileInputs.cache
+C:\Users\Langas\source\repos\Procesos\Procesos\obj\Debug\Procesos.exe
+C:\Users\Langas\source\repos\Procesos\Procesos\obj\Debug\Procesos.pdb
+C:\Users\Langas\source\repos\Procesos\Procesos\obj\Debug\Procesos.Procesos.resources
